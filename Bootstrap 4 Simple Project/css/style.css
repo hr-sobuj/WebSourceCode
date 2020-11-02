@@ -1,0 +1,53 @@
+*{
+    font-family: 'Open Sans',
+    sans-serif;
+    box-sizing: border-box;
+}
+body{
+    box-sizing: border-box;
+}
+.banner{
+    background-color: #cacaca;
+}
+.banner-middle{
+    background-color: #8d8c8c;
+    margin: auto;
+}
+.about{
+    background-color: #00bdbd;
+}
+#education{
+    background-color: #eeeeee;
+}
+.gray-education{
+    background-color: #eeeeee;
+}
+.edu-red{
+    background-color: #fb857f;
+}
+.edu-text-red {
+    color: #fb857f;
+}
+.circle-red{
+    background-color: #fb857f;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    text-align: center;
+}
+.project{
+    background-color: #00bdbd;
+}
+.page-footer{
+    background-color: #00838F;
+}
+.footer-copyright{
+    background-color: #006972;
+}
+.white-text{
+    color: white;
+    text-align: center;
+}
+.flex-center{
+    text-align: center;
+}
